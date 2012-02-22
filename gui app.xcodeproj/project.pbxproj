@@ -21,12 +21,12 @@
 		F283732614EAA27900D76566 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		F283732714EAA27900D76566 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		F283732814EAA27900D76566 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		F283732B14EAA27900D76566 /* gui app-Info.plist */ = {isa = PBXFileReference; path = "gui app-Info.plist"; sourceTree = "<group>"; };
+		F283732B14EAA27900D76566 /* gui app-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "gui app-Info.plist"; sourceTree = "<group>"; };
 		F283732D14EAA27900D76566 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F283732F14EAA27900D76566 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		F283733114EAA27900D76566 /* gui app-Prefix.pch */ = {isa = PBXFileReference; path = "gui app-Prefix.pch"; sourceTree = "<group>"; };
+		F283733114EAA27900D76566 /* gui app-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "gui app-Prefix.pch"; sourceTree = "<group>"; };
 		F283733314EAA27900D76566 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
-		F283733514EAA27900D76566 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		F283733514EAA27900D76566 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		F283733614EAA27900D76566 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		F283733914EAA27900D76566 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
